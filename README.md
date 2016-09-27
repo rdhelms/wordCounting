@@ -1,3 +1,3 @@
 #wordCounting
 
-http://www.rdhelms.github.io/wordCounting
+https://rdhelms.github.io/wordCounting/

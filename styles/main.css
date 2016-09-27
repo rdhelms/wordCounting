@@ -1,20 +1,16 @@
-// wordCounting
-
 html, body {
   margin: 0;
   padding: 0;
   width: 100%;
   height: 100%;
-  overflow: hidden;
-}
+  overflow: hidden; }
 
 body {
   background: beige;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
-}
+  flex-direction: column; }
 
 .display {
   display: flex;
@@ -22,26 +18,24 @@ body {
   align-items: center;
   height: 30%;
   width: 80%;
-  background: #ddd;
-}
+  background: #ddd; }
 
 .results {
   display: flex;
   justify-content: space-around;
   width: 80%;
-  height: 50%;
-  .result1, .result2 {
+  height: 50%; }
+  .results .result1, .results .result2 {
     overflow-y: scroll;
     display: flex;
     border: 1px solid black;
     width: 50%;
     height: 100%;
-    background: #abc;
-  }
-}
+    background: #abc; }
 
 textarea {
   overflow-y: scroll;
   width: 40%;
-  height: 80%;
-}
+  height: 80%; }
+
+/*# sourceMappingURL=main.css.map */
